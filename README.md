@@ -1,32 +1,33 @@
-# 🚀 Gemini Model Prompt Generator
-A sleek and interactive chatbot app built with Streamlit and Google Gemini Models. This project combines AI/ML capabilities with full-stack development, offering an intuitive interface for crafting prompts and generating insightful responses.
+# 🚀 Your Go-To SQL Resource! 🌟
+A comprehensive SQL guide to help you master database management! Whether you're a beginner or looking to refine your SQL skills, this resource provides key concepts and practical examples to level up your expertise.
 
-![image](https://github.com/user-attachments/assets/76b656f3-a6a7-4b4d-8a63-f79f2d1ed2aa)
+# 📋 Topics Covered
 
+✅ SQL Command Categories:
+  -Data Control Language (DCL)
+  
+  -Data Definition Language (DDL)
 
-## ✨ Features
--**Model Selection:** Choose between different Gemini models:gemini-1.5-pro, gemini-1.0-pro, gemini-1.5-flash
+  -Data Manipulation Language (DML)
 
--**Dynamic Prompt Creation:** Craft and modify prompts on the fly.
+  -Transaction Control Language (TCL)
 
--**Real-Time AI Responses:** Leverage the power of Google Gemini for high-quality answers.
+✅ Advanced Queries:
 
--**Modern UI:** Enhanced user experience with custom CSS for a sleek look.
+  -Joins (INNER, OUTER, LEFT, RIGHT)
+  
+  -Subqueries
+  
+  -Indexing for performance optimization
 
+✅ Aggregate Functions:
 
-## 🛠️ Tech Highlights
+  -COUNT, AVG, SUM, MIN, MAX
 
--**Frontend:** Built with Streamlit for a dynamic and responsive interface.
+✅ Window Functions:
 
--**Backend:** Powered by Google Gemini Models for generative AI responses.
+  -ROW_NUMBER, LEAD, LAG, RANK, and more
 
--**Language:** Python
+✅ Table Management:
 
--**Styling:** Custom CSS for enhanced aesthetics.
-
-
-## Instructions to run the file
-
-1. Open the cmd in the same directory of the file.
-
-2. **>> streamlit run gemini_prompt_app_designed.py**
+  -Creating, Modifying, and Managing Tables
